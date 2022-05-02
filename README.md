@@ -1,2 +1,2 @@
-# note
+# Project X
 Expense Manager
